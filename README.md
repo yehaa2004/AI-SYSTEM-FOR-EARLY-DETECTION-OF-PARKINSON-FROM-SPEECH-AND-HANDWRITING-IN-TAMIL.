@@ -1,4 +1,6 @@
 AI SYSTEM FOR EARLY DETECTION OF PARKINSON FROM SPEECH IN TAMIL
+<img width="1080" height="650" alt="image" src="https://github.com/user-attachments/assets/f3646a05-d1e1-485c-aaba-ec76e91a7345" />
+
 
 MLP + CNN Classification
 
@@ -33,13 +35,19 @@ using acoustic features extracted from voice recordings.
 The dataset consists of .wav speech recordings organized as:
 
 Tamil_Parkinson_Dataset/
+
 │
 ├── train/
+
 │   ├── healthy/
+
 │   └── parkinson/
 │
+
 ├── test/
+
 │   ├── healthy/
+
 │   └── parkinson/
 
 Dataset Characteristics
